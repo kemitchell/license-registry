@@ -1,7 +1,6 @@
 {
   "type": "object",
   "required": [
-    "deprecated",
     "id",
     "name",
     "osiApproved",
@@ -41,19 +40,16 @@
     "id": {
       "type": "string"
     },
-    "deprecated": {
-      "type": "boolean"
-    },
     "name": {
       "type": "string"
     },
-    "addedInVersion": {
+    "added": {
       "$ref": "#/definitions/version"
     },
     "osiApproved": {
       "type": "boolean"
     },
-    "deprecatedInVersion": {
+    "deprecated": {
       "$ref": "#/definitions/version"
     }
   },

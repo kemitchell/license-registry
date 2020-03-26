@@ -2,8 +2,7 @@
   "name": "GNU General Public License v2.0",
   "id": "GPL-2.0",
   "osiApproved": true,
-  "deprecated": true,
-  "deprecatedInVersion": "3.0",
+  "deprecated": "3.0",
   "crossReferences": [
     "https://www.gnu.org/licenses/old-licenses/gpl-2.0-standalone.html",
     "https://opensource.org/licenses/GPL-2.0"
